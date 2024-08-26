@@ -14,12 +14,6 @@ const Navbar = () => {
               New Task
             </Link>
           </li>
-          <p>|</p>
-          <li>
-            <Link href='/about' className='text-slate-300 hover:text-slate-200'>
-              About
-            </Link>
-          </li>
         </ul>
       </div>
     </nav>
